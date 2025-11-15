@@ -60,3 +60,7 @@ The project uses the following libraries:
 ## About Milutin Milanković
 
 Milutin Milanković (1879-1958) was a Serbian scientist who is best known for his theory of ice ages, which connects the Earth's long-term climate changes with variations in its orbit around the Sun. His work has had a profound impact on our understanding of climate science and the history of our planet.
+
+## Acknowledgements
+
+This project was completed as a part of the **"Python Mega Course: Build 20 Real-World Apps and AI Agents"** course taught by **Ardit Sulce** at **udemy.com**. The core concepts and structure are derived from the course material.
